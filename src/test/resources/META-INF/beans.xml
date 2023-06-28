@@ -4,7 +4,6 @@
     bean-discovery-mode="all" version="2.0">
     <!-- Exclude the class to force it to be loaded as an unmanaged dependency -->
     <scan>
-        <exclude
-            name="io.cucumber.cdi2.Cdi2FactoryTest$UnmanagedBean" />
+
     </scan>
 </beans>
