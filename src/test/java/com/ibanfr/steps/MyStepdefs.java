@@ -5,15 +5,14 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-import javax.inject.Inject;
-
+import jakarta.inject.Inject;
 public class MyStepdefs {
 
     @Inject
     private Belly belly;
 
-    @Given("Test conditionn")
-    public void testConditionn() {
+    @Given("Test condition")
+    public void testCondition() {
         belly.setCukes(1);
     }
 
