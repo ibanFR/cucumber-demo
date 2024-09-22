@@ -10,9 +10,8 @@ Execute `mvn clean install` to build the project and run the tests.
 https://cucumber.io/docs/installation/java/
 
 ## Reporting
-https://cucumber.io/docs/cucumber/reporting
-The project includes a set of reporting plugins to generate reports in different formats.
+The project uses the Cucumber reporting plugin to generate reports in the `target/cucumber-reports` directory.
 
-There is one branch for every third reporting plugin.
+See [cucumber-reporting-plugin](https://gitlab.com/jamietanna/cucumber-reporting-plugin) for more information.
 
 Ideally, the reports should display the features grouped by the capability they are testing.
