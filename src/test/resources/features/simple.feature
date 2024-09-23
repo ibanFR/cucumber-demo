@@ -1,4 +1,4 @@
-Feature: Test feature
+Feature: Simple feature
   Test feature with CDI
 
   Scenario: Test scenario
