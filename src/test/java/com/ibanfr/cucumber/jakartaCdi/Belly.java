@@ -1,4 +1,4 @@
-package com.ibanfr;
+package com.ibanfr.cucumber.jakartaCdi;
 
 
 import jakarta.enterprise.context.ApplicationScoped;

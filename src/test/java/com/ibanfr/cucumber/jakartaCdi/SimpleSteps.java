@@ -1,12 +1,12 @@
-package com.ibanfr.steps;
+package com.ibanfr.cucumber.jakartaCdi;
 
-import com.ibanfr.Belly;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 import jakarta.inject.Inject;
-public class MyStepdefs {
+
+public class SimpleSteps {
 
     @Inject
     private Belly belly;

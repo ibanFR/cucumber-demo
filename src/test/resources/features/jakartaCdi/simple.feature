@@ -1,4 +1,5 @@
-Feature: Simple feature
+Feature: Dependency Injection with CDI
+
   Test feature with CDI
 
   Scenario: Test scenario
