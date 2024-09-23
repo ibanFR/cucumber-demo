@@ -14,11 +14,8 @@ https://cucumber.io/docs/cucumber/reporting
 
 The project includes a set of reporting plugins to generate reports in different formats.
 
-There is one branch for every third-party reporting plugin.
-
 ### Cucumber Reports Service
 Cucumber Reports Service can be configured on junit-platform.properties file.
-
 To enable the service, set the following properties:
 
 ```properties
@@ -31,7 +28,7 @@ Generates local reports using one of the following built-in reporter plugins (al
 - message
 - progress
 - pretty
-- html
+- html (`target/cucumber-report.html`)
 - json
 - rerun
 - junit
