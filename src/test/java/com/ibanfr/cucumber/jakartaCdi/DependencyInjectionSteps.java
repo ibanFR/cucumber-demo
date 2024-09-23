@@ -6,7 +6,7 @@ import io.cucumber.java.en.When;
 
 import jakarta.inject.Inject;
 
-public class SimpleSteps {
+public class DependencyInjectionSteps {
 
     @Inject
     private Belly belly;
