@@ -9,11 +9,10 @@ Feature: Generate report
   > Descriptions can be in the form of Markdown - formatters.
 
   **A comprehensive description of what the features does should be included in here**.
-  Use the language of the business domain and avoid any technical details on how the system works.
 
   @wip
   Scenario: Use a reporter plugin for Cucumber
-  A brief explanation of the business rules (general acceptance criteria) for the scenario should be included here.
+  **A brief explanation of the business rules (general acceptance criteria) for the scenario should be included here.**
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut augue et lacus gravida consectetur id in ante.
   In rutrum leo ut neque finibus bibendum ut non ex. Nulla commodo elit eget ipsum lacinia pellentesque. Suspendisse

@@ -11,8 +11,8 @@ public class DependencyInjectionSteps {
     @Inject
     private Belly belly;
 
-    @Given("Test condition")
-    public void testCondition() {
+    @Given("a precondition")
+    public void aPrecondition() {
         belly.setCukes(1);
     }
 
