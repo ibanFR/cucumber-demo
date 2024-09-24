@@ -1,11 +1,11 @@
-package com.ibanfr.steps;
+package com.ibanfr.cucumber.datatable;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class TestDatatableStepdefs {
+public class DatatableSteps {
     @Given("some input data:")
     public void someInputData(DataTable table) {
         System.out.println("input data");
