@@ -1,4 +1,3 @@
-@wip
 Feature: High-level description of the software feature
 
   The purpose of the Feature is to provide a high-level description of a software feature, and to group related scenarios.
@@ -25,4 +24,4 @@ Feature: High-level description of the software feature
 
     Given a precondition
     When an action is performed
-    Then description of expected system behavior
+    Then expected system behavior

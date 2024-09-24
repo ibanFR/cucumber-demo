@@ -23,7 +23,7 @@ public class TemplateSteps {
         System.out.println("Action performed!");
     }
 
-    @Then("description of expected system behavior")
+    @Then("expected system behavior")
     public void descriptionOfExpectedSystemBehavior() {
         assertTrue(condition);
     }
