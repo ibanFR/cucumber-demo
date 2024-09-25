@@ -1,6 +1,6 @@
 Feature: Showcase to convert a cucumber Datatable attribute
 
-  Scenario:
+  Scenario: Simple cucumber datatable
     Given some input data:
       | column1              | column2               |
       | description column 1 | description column 2 |

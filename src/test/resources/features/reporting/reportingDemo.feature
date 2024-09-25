@@ -1,4 +1,4 @@
-Feature: Generate report
+Feature: Generate HTML report
 
   This feature showcase how markdown can be used in feature files to create living documentation for the project.
 
