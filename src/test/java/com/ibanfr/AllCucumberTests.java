@@ -10,5 +10,5 @@ import static io.cucumber.junit.platform.engine.Constants.PLUGIN_PROPERTY_NAME;
 @SelectClasspathResource("features")
 @ConfigurationParameter(key = PLUGIN_PROPERTY_NAME, value = "html:target/cucumber-reports/index.html")
 @ConfigurationParameter(key = FILTER_TAGS_PROPERTY_NAME, value = "not @wip")
-public class CucumberTest {
+public class AllCucumberTests {
 }
