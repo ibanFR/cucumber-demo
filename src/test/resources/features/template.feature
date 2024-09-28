@@ -1,4 +1,4 @@
-Feature: High-level description of the software feature
+Feature: A high-level description of the software feature
 
   The purpose of the Feature is to provide a high-level description of a software feature, and to group related scenarios.
   It contains a set of acceptance criteria, automated scenarios that demonstrate and verify how the feature works.
